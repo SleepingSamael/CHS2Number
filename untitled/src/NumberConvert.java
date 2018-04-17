@@ -13,8 +13,8 @@ public class NumberConvert {
             if (checkChinese.checkNameChese(number)) {
                 try {
                     //BiMaxSegment bimax = new BiMaxSegment(2);
-                    Chinese2Number c2n = new Chinese2Number();
-                    c2n.Rule(number);
+                    Chinese2Number c2n = new Chinese2Number(number);
+                    c2n.Rule();
                 } catch (Exception e) {
                     System.out.println(e.toString());
                 }
