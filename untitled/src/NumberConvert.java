@@ -12,8 +12,9 @@ public class NumberConvert {
             CheckChinese checkChinese = new CheckChinese();
             if (checkChinese.checkNameChese(number)) {
                 try {
-                    BiMaxSegment bimax = new BiMaxSegment(2);
-                    System.out.println(bimax.mm_segment(number));
+                    //BiMaxSegment bimax = new BiMaxSegment(2);
+                    Chinese2Number c2n = new Chinese2Number();
+                    c2n.Rule(number);
                 } catch (Exception e) {
                     System.out.println(e.toString());
                 }
