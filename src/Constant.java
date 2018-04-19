@@ -3,13 +3,13 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Constant {
-    //字集
+    /**字集**/
     public static String[] chnNumSet = {"负","零","一","二","三","四","五","六","七","八","九","十","百","千","万","亿"};
-    //数字位
+    /**数字位**/
     public static String[] chnNum = {"零","一","二","三","四","五","六","七","八","九"};
-    //权位
+    /**权位**/
     public static String[] chnUnitSection = {"十","百","千","万","亿"};
-    //映射表
+    /**映射表**/
     public static HashMap numberMap = new HashMap();
     static {
         numberMap.put("负","-");
@@ -29,7 +29,6 @@ public class Constant {
         numberMap.put("千",1000);
         numberMap.put("万",10000);
         numberMap.put("亿",100000000);
-
     }
 
     /**分词词典**/

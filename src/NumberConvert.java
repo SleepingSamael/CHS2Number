@@ -2,13 +2,16 @@ import java.util.Scanner;
 
 public class NumberConvert {
     public static void main(String []args) {
-
         System.out.println("请输入汉语数字，最大二十一亿：");
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();
-        String number = str.replaceAll(" ", "");//去输入空格
+
+        /**去除输入空格**/
+        String number = str.replaceAll(" ", "");
         //scanner.close();
-        if(!number.equals("quit")) {//输入quit退出
+
+        /**输入quit退出**/
+        if(!number.equals("quit")) {
             CheckChinese checkChinese = new CheckChinese();
             if (checkChinese.checkNameChese(number)) {
                 try {
