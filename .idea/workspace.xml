@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e50e2c-cc05-496e-88e5-bbeeccb01fb7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Num2CHS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Pie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Pie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/BiMaxSegment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/CheckChinese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Chinese2Number.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Constant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/NumberConvert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Pie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CHS2Number.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +17,7 @@
       <file leaf-file-name="NumberConvert.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NumberConvert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
+            <state relative-caret-position="216">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
@@ -35,8 +26,8 @@
       <file leaf-file-name="BiMaxSegment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BiMaxSegment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2052">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="-3024">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -44,17 +35,38 @@
       <file leaf-file-name="CheckChinese.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckChinese.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="-810">
               <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chinese2Number.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chinese2Number.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Chinese2Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1912">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="486">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Num2CHS.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Num2CHS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="51" column="43" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="43" />
+              <folding>
+                <element signature="e#203#219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -90,12 +102,13 @@
         <option value="$PROJECT_DIR$/untitled/src/Chinese2Number.java" />
         <option value="$PROJECT_DIR$/untitled/src/Pie.java" />
         <option value="$PROJECT_DIR$/untitled/src/DeleteMin.java" />
+        <option value="$PROJECT_DIR$/src/Num2CHS.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="746" />
-    <option name="y" value="248" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1025" />
+    <option name="y" value="203" />
     <option name="width" value="1400" />
     <option name="height" value="1042" />
   </component>
@@ -107,6 +120,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CHS2Number" type="58d84e3e:PackageViewProjectNode" />
+              <item name="CHS2Number" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="CHS2Number" type="58d84e3e:PackageViewProjectNode" />
+              <item name="untitled" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,27 +152,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CHS2Number" type="58d84e3e:PackageViewProjectNode" />
-              <item name="CHS2Number" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="CHS2Number" type="58d84e3e:PackageViewProjectNode" />
-              <item name="untitled" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PracticeProject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PracticeProjecrs" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -166,14 +179,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeleteMin">
+  <component name="RunManager" selected="Application.Num2CHS">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="BiMaxSegment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BiMaxSegment" />
-      <module name="untitled" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="DeleteMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteMin" />
@@ -183,6 +191,11 @@
     <configuration name="DeleteMin2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeleteMin2" />
       <module name="untitled" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Num2CHS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Num2CHS" />
+      <module name="CHS2Number" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="NumberConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -261,18 +274,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.NumberConvert" />
-      <item itemvalue="Application.BiMaxSegment" />
       <item itemvalue="Application.Pie (1)" />
       <item itemvalue="Application.DeleteMin" />
       <item itemvalue="Application.DeleteMin2" />
+      <item itemvalue="Application.Num2CHS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Num2CHS" />
         <item itemvalue="Application.DeleteMin" />
         <item itemvalue="Application.DeleteMin2" />
         <item itemvalue="Application.Pie (1)" />
         <item itemvalue="Application.NumberConvert" />
-        <item itemvalue="Application.BiMaxSegment" />
       </list>
     </recent_temporary>
   </component>
@@ -291,30 +304,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="2582" height="1406" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49414062" weight="0.2647303" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5046875" side_tool="true" weight="0.26556018" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50507814" side_tool="true" visible="true" weight="0.26083332" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4953125" weight="0.1925" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49492186" visible="true" weight="0.26083332" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18320313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18320313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.37583333" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4984375" weight="0.37583333" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49414062" weight="0.2647303" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -326,17 +338,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="20" />
+      <option name="time" value="23" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CheckChinese.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberConvert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -423,39 +428,49 @@
     <entry file="file://$PROJECT_DIR$/untitled/src/BiMaxSegment.java" />
     <entry file="file://$PROJECT_DIR$/untitled/src/Chinese2Number.java" />
     <entry file="file://$PROJECT_DIR$/../PracticeProject/untitled/src/Pie.java" />
-    <entry file="file://$PROJECT_DIR$/src/Constant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../PracticeProject/untitled/src/DeleteMin.java" />
     <entry file="file://$PROJECT_DIR$/src/CheckChinese.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="-810">
           <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BiMaxSegment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2052">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberConvert.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
+        <state relative-caret-position="216">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chinese2Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1912">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="486">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BiMaxSegment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3024">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Num2CHS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="43" />
+          <folding>
+            <element signature="e#203#219#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
