@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e50e2c-cc05-496e-88e5-bbeeccb01fb7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/BiMaxSegment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/CheckChinese.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/Chinese2Number.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/Num2CHS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CHS2Number/Num2CHS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/NumberConvert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BiMaxSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHS2Num/BiMaxSegment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckChinese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHS2Num/CheckChinese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chinese2Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHS2Num/Chinese2Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHS2Num/Constant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHS2Num/NumberConvert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CHS2Number/CHS2Num/Chinese2Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CHS2Number/CHS2Num/Chinese2Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CHS2Num/Chinese2Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHS2Num/Chinese2Number.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,8 +35,8 @@
       <file leaf-file-name="Chinese2Number.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CHS2Num/Chinese2Number.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+            <state relative-caret-position="216">
+              <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
               <folding>
                 <element signature="e#378#379#0" expanded="true" />
                 <element signature="e#410#411#0" expanded="true" />
@@ -307,8 +296,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2582" height="1462" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="2582" height="1406" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,20 +304,20 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.33867186" side_tool="true" visible="true" weight="0.21974522" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35962784" side_tool="true" visible="true" weight="0.40381283" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64140624" weight="0.3192675" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.64037216" visible="true" weight="0.40381283" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49959546" weight="0.32928944" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18320313" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49609375" weight="0.4124204" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18972492" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49555016" weight="0.4488735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.66132814" visible="true" weight="0.21974522" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.66132814" weight="0.21974522" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,8 +470,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CHS2Num/Chinese2Number.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        <state relative-caret-position="216">
+          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
           <folding>
             <element signature="e#378#379#0" expanded="true" />
             <element signature="e#410#411#0" expanded="true" />

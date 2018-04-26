@@ -73,7 +73,7 @@ public class Chinese2Number {
         /**
          * 亿要在万前面
          */
-        if (inText.indexOf("亿")>inText.indexOf("万")){
+        if (inText.indexOf("亿")>0&&inText.indexOf("万")>0&&inText.indexOf("亿")>inText.indexOf("万")){
             System.out.println("亿要在万前面");
             flag=false;
         }
