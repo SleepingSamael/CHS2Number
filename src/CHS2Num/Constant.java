@@ -1,3 +1,5 @@
+package CHS2Num;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
@@ -8,11 +10,10 @@ public class Constant {
     /**数字位**/
     public static String[] chnNum = {"零","一","二","三","四","五","六","七","八","九"};
     /**权位**/
-    public static String[] chnUnitSection = {"十","百","千","万","亿"};
+    public static String[] chnUnitSection = {"十","百","千"};
     /**映射表**/
-    public static HashMap numberMap = new HashMap();
+    public static HashMap<String,Integer> numberMap = new HashMap();
     static {
-        numberMap.put("负","-");
         numberMap.put("零",0);
         numberMap.put("一",1);
         numberMap.put("二",2);

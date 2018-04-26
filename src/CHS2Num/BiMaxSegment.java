@@ -1,3 +1,5 @@
+package CHS2Num;
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;

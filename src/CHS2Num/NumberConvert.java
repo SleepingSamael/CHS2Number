@@ -1,3 +1,5 @@
+package CHS2Num;
+
 import java.util.Scanner;
 
 public class NumberConvert {
@@ -14,17 +16,14 @@ public class NumberConvert {
         if(!number.equals("quit")) {
             CheckChinese checkChinese = new CheckChinese();
             if (checkChinese.checkNameChese(number)) {
-                try {
-                    //BiMaxSegment bimax = new BiMaxSegment(2);
+
+                    //CHS2Num.BiMaxSegment bimax = new CHS2Num.BiMaxSegment(2);
                     Chinese2Number c2n = new Chinese2Number(number);
-                    c2n.Rule();
-                } catch (Exception e) {
-                    System.out.println(e.toString());
-                }
+                    if(c2n.Rule()) c2n.numHandle();
+
             } else {
                 System.out.println("输入存在非法字符，只能输入汉字");
             }
-            NumberConvert numberConvert = new NumberConvert();
             NumberConvert.main(null);
         }
     }

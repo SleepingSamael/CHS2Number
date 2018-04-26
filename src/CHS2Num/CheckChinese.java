@@ -1,3 +1,5 @@
+package CHS2Num;
+
 public class CheckChinese {
     /**
      * 判定输入汉字
