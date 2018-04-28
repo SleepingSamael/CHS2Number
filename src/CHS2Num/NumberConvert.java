@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class NumberConvert {
     public static void main(String []args) {
-        System.out.println("请输入汉语数字，最大二十一亿：");
+        System.out.println("请输入汉语数字，最大九千九百九十九亿九千九百九十九万九千九百九十九：");
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();
 

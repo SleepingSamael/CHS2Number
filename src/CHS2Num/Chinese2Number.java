@@ -11,7 +11,7 @@ public class Chinese2Number {
     /**输入字符串**/
     private String inText;
     /**输出结果**/
-    private int out;
+    private long out;
     private boolean minus = false;
 
     /***
@@ -174,8 +174,8 @@ public class Chinese2Number {
      * @param part
      * @return
      */
-    private int parthandle(String part){
-        int result = 0;
+    private long parthandle(String part){
+        long result = 0;
         if(part.startsWith("十")){
             part="一"+part;
         }
